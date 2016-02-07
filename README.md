@@ -1,2 +1,2 @@
 # SENSORES
-Codigos relacionados los sensores de MAGNETBOT.
+Codigos relacionados a los sensores de MAGNETBOT.
